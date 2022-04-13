@@ -18,6 +18,10 @@ h1 {
 
 }
 
+li{color:rgb(43, 189, 199);
+    
+}
+
 #grid ol {
     border-right: 1px solid gray;
     width: 100px;
